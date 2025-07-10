@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pyDev-marufa
-- 👀 I’m interested in Js mostly
+- 👀 I’m interested in Python mostly
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on numerous interesting projects like automating things
 - 📫 How to reach me...
