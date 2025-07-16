@@ -5,7 +5,7 @@ I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately..  <i
 Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or SW stuffs.
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)    [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pyDev-marufa)]
 
 
 <!---!
