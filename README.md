@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pyDev-marufa
+- 👋 Hi, I’m @pyDev-marufa  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Python mostly
 - 🌱 I’m currently learning Js & MERN
 - 💞️ I’m looking to collaborate on numerous interesting projects like automating things
