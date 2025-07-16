@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...!
 
-<!---
+<!---![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)
 pyDev-marufa/pyDev-marufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
