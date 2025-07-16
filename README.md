@@ -1,4 +1,5 @@
-- 👋 Hello, I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm enthusiastic about working on a wide array of innovative projects, particularly those centered around automation or SW stuffs.
+👋 Hello, I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or SW stuffs.
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)
