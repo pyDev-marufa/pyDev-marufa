@@ -2,8 +2,7 @@
 
 
 Hola, I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <br>
- Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or <br>some SW stuffs. 💫
-
+Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or SW stuffs. 💫
 
 
   
