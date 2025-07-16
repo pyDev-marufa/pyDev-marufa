@@ -7,7 +7,7 @@ Enthusiastic about working on a wide array of innovative projects, particularly 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pyDev-marufa&right_color=Chocolate)
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)      https://github-readme-stats.vercel.app/api?username=pyDev-marufa
 
 
 <!---!
