@@ -4,8 +4,10 @@
 I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately..  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or SW stuffs.
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pyDev-marufa&right_color=Chocolate)
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)    ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pyDev-marufa&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)    
 
 
 <!---!
