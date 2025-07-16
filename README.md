@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Js & MERN
 - 💞️ I’m looking to collaborate on numerous interesting projects like automating things
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...!
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)
 <!---!
 pyDev-marufa/pyDev-marufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
