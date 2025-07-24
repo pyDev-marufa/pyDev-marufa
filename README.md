@@ -5,8 +5,7 @@ Hola, I’m Marufaa! Interested in Python mostly. Been learning Js & MERN lately
 Enthusiastic about working on a wide array of innovative projects, particularly those involving automation or SW stuffs. 💫
 
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyDev-marufa&layout=compact)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pyDev-marufa&theme=darcula&hide_border=true&type=png&background=FFFFFF00)](https://git.io/streak-stats)
+
 
 <!---!
 pyDev-marufa/pyDev-marufa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
